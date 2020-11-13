@@ -1,0 +1,45 @@
+#EXTM3U
+#EXTINF:-1,Everton	 vs	Manchester Utd [en]
+https://storage.googleapis.com/dailyd/epl1/1.m3u8
+#EXTINF:-1,Everton	 vs	Manchester Utd 2
+https://akamai2-me.cdn.booyah.live/hls/113137/29856838.m3u8
+#EXTINF:-1,Everton	 vs	Manchester Utd 3
+https://akamai2-me.cdn.booyah.live/hls/113130/18608343.m3u8
+#EXTINF:-1,Everton	 vs	Manchester Utd 4
+https://akamai2-me.cdn.booyah.live/hls/113134/30396657.m3u8
+#EXTINF:-1,Everton	 vs	Manchester Utd 5
+https://akamai2-me.cdn.booyah.live/hls/113134/30029483.m3u8
+#EXTINF:-1,Crystal Palace	 vs	Leeds United
+https://akamai2-me.cdn.booyah.live/hls/113130/30407952.m3u8
+#EXTINF:-1,Crystal Palace	 vs	Leeds United 2
+http://62.210.148.7:8090/FT/9/index.m3u8?token=MjcxNzQ3MzI1ZWQ2NmEzNjUyZTk5ZmEyMjkyY2MzYTQ6MTYwNDc2MDYyNg==
+#EXTINF:-1,Crystal Palace	 vs	Leeds United 3
+https://storage.googleapis.com/dailyd/epl1/1.m3u8
+#EXTINF:-1,Crystal Palace	 vs	Leeds United 4
+http://46.4.21.234:8090/FT/2/index.m3u8?token=MWUxYmU3OTNhYzYxMDMwZjg4YjRmM2MzZGM1ZDcyMzM6MTYwNDc2MDc4OQ==
+#EXTINF:-1,Barcelona	 vs	Real Betis
+https://akamai2-me.cdn.booyah.live/hls/113132/30401118.m3u8
+#EXTINF:-1,Barcelona	 vs	Real Betis 2
+http://136.243.32.12:8090/FT/2/index.m3u8?token=MWUxYmU3OTNhYzYxMDMwZjg4YjRmM2MzZGM1ZDcyMzM6MTYwNDc2MDgyOQ==
+#EXTINF:-1,Barcelona	 vs	Real Betis 3
+https://aws-me.cdn.booyah.live/hls/113138/30400106.m3u8
+#EXTINF:-1,Barcelona	 vs	Real Betis 4
+https://akamai2-mx.cdn.booyah.live/hls/250176/30401249.m3u8
+#EXTINF:-1,Barcelona	 vs	Real Betis [english]
+https://aws-me.cdn.booyah.live/hls/113138/30400106.m3u8
+#EXTINF:-1,Chelsea	 vs	Sheffield United
+http://46.4.21.234:8090/FT/2/index.m3u8?token=MWUxYmU3OTNhYzYxMDMwZjg4YjRmM2MzZGM1ZDcyMzM6MTYwNDc2MDc4OQ==
+#EXTINF:-1,Chelsea	 vs	Sheffield United 2
+http://138.201.253.237:8090/SUFT/2/index.m3u8?token=MTI1LjE2NS4xMDkuMTc0LXRva2VuMS0xNjA0NzcyNDgx
+#EXTINF:-1,Borussia Dortmund	 vs	Bayern Munich
+http://51.15.26.94:8090/SUFT/5/index.m3u8?token=MTI1LjE2NS4xMDkuMTc0LXRva2VuMS0xNjA0NzcyNjMz
+#EXTINF:-1,West Ham United	 vs	Fulham
+http://138.201.253.237:8090/SUFT/2/index.m3u8?token=MTI1LjE2NS4xMDkuMTc0LXRva2VuMS0xNjA0NzcyNDgx
+#EXTINF:-1,Parma vs Fiorentina
+http://195.154.165.86:8090/FT/3/index.m3u8?token=MGVlYjRmMTk3N2NlZTBkNzRkOTI1MWEwOWYyMTc3Yzc6MTYwNDc2MTIyMA==
+#EXTINF:-1,Sevilla vs Osasuna
+https://storage.googleapis.com/dailyd/epl1/1.m3u8
+#EXTINF:-1,Atletico Madrid	 vs	Cadiz
+https://storage.googleapis.com/dailyd/epl1/1.m3u8
+#EXTINF:-1,Paris Saint-Germain	 vs	Rennes
+https://cdn-stream.metube.id/videos/2020/11/05/PiE500jjjT1ES1Nfjuab/240p/list.m3u8
